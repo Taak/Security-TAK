@@ -1,0 +1,7 @@
+Security-TAK.dll by Taak
+
+[05/12/2012]
+
+Creation of the project. Création du projet.
+Crypt of the letter 'A' added. Lettre 'A' crypté.
+Crypt of the letter 'a' added. Lettre 'A' crypté.
